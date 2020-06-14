@@ -1,4 +1,2 @@
-- Updated v1.3.5
-- Install LD to drive C:\XuanZhi\LDPlayer Or D:\XuanZhi\LDPlayer
-- Upgrade anti-blocking system
+- Updated v1.3.7
 - New version: https://bit.ly/2XG5AwB
